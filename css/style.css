@@ -95,7 +95,6 @@ nav  ul li a{
 @media(max-width: 858px){
     nav{
         background: #0082e6;
-        position: fixed;
       
     }
     .checkbtn{
