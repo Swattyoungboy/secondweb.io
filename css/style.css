@@ -79,9 +79,9 @@ nav  ul li a{
     display: none;
 }
 @media(max-width: 952px){
-    nav{
+     nav{
         background: #0082e6;
-      
+       position: fixed;
     }
     .logo img{
         font-size: 30px;
@@ -95,7 +95,7 @@ nav  ul li a{
 @media(max-width: 858px){
     nav{
         background: #0082e6;
-      
+       position: fixed;
     }
     .checkbtn{
         display: block;
@@ -137,7 +137,7 @@ nav  ul li a{
 @media(max-width: 410px){
     nav{
         background: #0082e6;
-      
+       position: fixed;
     }
     .logo img{
         position: fixed;
@@ -150,6 +150,10 @@ nav  ul li a{
     }
 }
 @media(max-width: 381px){
+	 nav{
+        background: #0082e6;
+       position: fixed;
+    }
     .logo img{
         position: fixed;
         font-size: 30px;
