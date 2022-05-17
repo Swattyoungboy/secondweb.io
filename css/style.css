@@ -141,7 +141,7 @@ nav  ul li a{
     }
     .logo img{
         position: fixed;
-        font-size: 30px;
+        font-size: 26px;
         margin-left: 25px;
     }
     nav ul li a{
@@ -150,6 +150,18 @@ nav  ul li a{
     }
 }
 @media(max-width: 381px){
+	 nav{
+        background: #0082e6;
+       position: fixed;
+    }
+    .logo img{
+        position: fixed;
+        font-size: 25px;
+        margin-left: 13px;
+    }
+
+}
+@media(max-width: 403px){
 	 nav{
         background: #0082e6;
        position: fixed;
